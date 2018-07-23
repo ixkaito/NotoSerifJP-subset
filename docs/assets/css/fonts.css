@@ -33,7 +33,7 @@
 @font-face {
 	font-family: "Noto Serif CJK JP";
 	font-style: normal;
-	font-weight: 500;
+	font-weight: 600;
 	src: url("../fonts/NotoSerifCJKjp-SemiBold.woff") format("woff"),
 	     url("../fonts/NotoSerifCJKjp-SemiBold.otf") format("opentype");
 }
