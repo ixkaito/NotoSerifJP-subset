@@ -7,9 +7,15 @@
 
 ## ファイルサイズの比較
 
-| オリジナル | [Google 版サブセット](https://www.google.com/get/noto/help/cjk/) | NotoSerifCJKjp-subset (OTF/WOFF) |
-|---:|---:|---:|
-| 23.6 MB | 6.2 MB | 1 MB / 745 KB |
+|| オリジナル | [Google 版サブセット](https://www.google.com/get/noto/help/cjk/) | NotoSerifCJKjp-subset (OTF / WOFF) |
+|---|---:|---:|---:|
+| Extra Light | 21.3 MB | 5.7 MB | **1 MB / 685 KB** |
+| Light       | 23.5 MB | 6.1 MB | **1 MB / 723 KB** |
+| Regular     | 23.6 MB | 6.2 MB | **1 MB / 745 KB** |
+| Medium      | 23.9 MB | 6.2 MB | **1.1 MB / 745 KB** |
+| Semi Bold   | 23.9 MB | 6.3 MB | **1.1 MB / 749 KB** |
+| Bold        | 24.7 MB | 6.4 MB | **1.1 MB / 764 KB** |
+| Black       | 22.9 MB | 6.3 MB | **1.1 MB / 748 KB** |
 
 ## デモ
 
