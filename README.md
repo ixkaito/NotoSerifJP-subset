@@ -3,7 +3,7 @@
 - [`src`](https://github.com/ixkaito/NotoSerifCJKjp-subset/tree/master/src): オリジナルフォントデータ
 - [`webfonts`](https://github.com/ixkaito/NotoSerifCJKjp-subset/tree/master/webfonts): ウェブ用サブセットフォント (.woff, .otf)
 - [`characters.txt`](https://github.com/ixkaito/NotoSerifCJKjp-subset/blob/master/characters.txt): サブセットフォントで利用可能文字の一覧
-- [`docs`](https://github.com/ixkaito/NotoSerifCJKjp-subset/tree/master/demo): デモのソース
+- [`docs`](https://github.com/ixkaito/NotoSerifCJKjp-subset/tree/master/demo): デモ
 
 ## デモ
 
