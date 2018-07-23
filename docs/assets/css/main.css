@@ -52,20 +52,12 @@ footer {
 	padding: 0 20px;
 }
 
-.noto-mono {
-	font-family: "Noto Sans Mono CJK JP", sans-serif;
-}
-
-.thin {
+.extralight {
 	font-weight: 100;
 }
 
 .light {
 	font-weight: 200;
-}
-
-.demilight {
-	font-weight: 300;
 }
 
 .regular {
@@ -74,6 +66,10 @@ footer {
 
 .medium {
 	font-weight: 500;
+}
+
+.semibold {
+	font-weight: 600;
 }
 
 .bold {

@@ -2,39 +2,23 @@
 	font-family: "Noto Serif CJK JP";
 	font-style: normal;
 	font-weight: 100;
-	src: url("../fonts/NotoSerifCJKjp-Thin.eot");
-	src: url("../fonts/NotoSerifCJKjp-Thin.eot?#iefix") format("embedded-opentype"),
-	     url("../fonts/NotoSerifCJKjp-Thin.woff") format("woff"),
-	     url("../fonts/NotoSerifCJKjp-Thin.otf") format("opentype");
+	src: url("../fonts/NotoSerifCJKjp-ExtraLight.woff") format("woff"),
+	     url("../fonts/NotoSerifCJKjp-ExtraLight.otf") format("opentype");
 }
 
 @font-face {
 	font-family: "Noto Serif CJK JP";
 	font-style: normal;
 	font-weight: 200;
-	src: url("../fonts/NotoSerifCJKjp-Light.eot");
-	src: url("../fonts/NotoSerifCJKjp-Light.eot?#iefix") format("embedded-opentype"),
-	     url("../fonts/NotoSerifCJKjp-Light.woff") format("woff"),
+	src: url("../fonts/NotoSerifCJKjp-Light.woff") format("woff"),
 	     url("../fonts/NotoSerifCJKjp-Light.otf") format("opentype");
 }
 
 @font-face {
 	font-family: "Noto Serif CJK JP";
 	font-style: normal;
-	font-weight: 300;
-	src: url("../fonts/NotoSerifCJKjp-DemiLight.eot");
-	src: url("../fonts/NotoSerifCJKjp-DemiLight.eot?#iefix") format("embedded-opentype"),
-	     url("../fonts/NotoSerifCJKjp-DemiLight.woff") format("woff"),
-	     url("../fonts/NotoSerifCJKjp-DemiLight.otf") format("opentype");
-}
-
-@font-face {
-	font-family: "Noto Serif CJK JP";
-	font-style: normal;
 	font-weight: 400;
-	src: url("../fonts/NotoSerifCJKjp-Regular.eot");
-	src: url("../fonts/NotoSerifCJKjp-Regular.eot?#iefix") format("embedded-opentype"),
-	     url("../fonts/NotoSerifCJKjp-Regular.woff") format("woff"),
+	src: url("../fonts/NotoSerifCJKjp-Regular.woff") format("woff"),
 	     url("../fonts/NotoSerifCJKjp-Regular.otf") format("opentype");
 }
 
@@ -42,19 +26,23 @@
 	font-family: "Noto Serif CJK JP";
 	font-style: normal;
 	font-weight: 500;
-	src: url("../fonts/NotoSerifCJKjp-Medium.eot");
-	src: url("../fonts/NotoSerifCJKjp-Medium.eot?#iefix") format("embedded-opentype"),
-	     url("../fonts/NotoSerifCJKjp-Medium.woff") format("woff"),
+	src: url("../fonts/NotoSerifCJKjp-Medium.woff") format("woff"),
 	     url("../fonts/NotoSerifCJKjp-Medium.otf") format("opentype");
 }
 
 @font-face {
 	font-family: "Noto Serif CJK JP";
 	font-style: normal;
+	font-weight: 500;
+	src: url("../fonts/NotoSerifCJKjp-SemiBold.woff") format("woff"),
+	     url("../fonts/NotoSerifCJKjp-SemiBold.otf") format("opentype");
+}
+
+@font-face {
+	font-family: "Noto Serif CJK JP";
+	font-style: normal;
 	font-weight: 700;
-	src: url("../fonts/NotoSerifCJKjp-Bold.eot");
-	src: url("../fonts/NotoSerifCJKjp-Bold.eot?#iefix") format("embedded-opentype"),
-	     url("../fonts/NotoSerifCJKjp-Bold.woff") format("woff"),
+	src: url("../fonts/NotoSerifCJKjp-Bold.woff") format("woff"),
 	     url("../fonts/NotoSerifCJKjp-Bold.otf") format("opentype");
 }
 
@@ -62,28 +50,6 @@
 	font-family: "Noto Serif CJK JP";
 	font-style: normal;
 	font-weight: 900;
-	src: url("../fonts/NotoSerifCJKjp-Black.eot");
-	src: url("../fonts/NotoSerifCJKjp-Black.eot?#iefix") format("embedded-opentype"),
-	     url("../fonts/NotoSerifCJKjp-Black.woff") format("woff"),
+	src: url("../fonts/NotoSerifCJKjp-Black.woff") format("woff"),
 	     url("../fonts/NotoSerifCJKjp-Black.otf") format("opentype");
-}
-
-@font-face {
-	font-family: "Noto Serif Mono CJK JP";
-	font-style: normal;
-	font-weight: 400;
-	src: url("../fonts/NotoSansMonoCJKjp-Regular.eot");
-	src: url("../fonts/NotoSansMonoCJKjp-Regular.eot?#iefix") format("embedded-opentype"),
-	     url("../fonts/NotoSansMonoCJKjp-Regular.woff") format("woff"),
-	     url("../fonts/NotoSansMonoCJKjp-Regular.otf") format("opentype");
-}
-
-@font-face {
-	font-family: "Noto Serif Mono CJK JP";
-	font-style: normal;
-	font-weight: 700;
-	src: url("../fonts/NotoSansMonoCJKjp-Bold.eot");
-	src: url("../fonts/NotoSansMonoCJKjp-Bold.eot?#iefix") format("embedded-opentype"),
-	     url("../fonts/NotoSansMonoCJKjp-Bold.woff") format("woff"),
-	     url("../fonts/NotoSansMonoCJKjp-Bold.otf") format("opentype");
 }
