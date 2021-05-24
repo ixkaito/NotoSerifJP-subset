@@ -1,6 +1,6 @@
-# Noto Serif CJK JP サブセット [![license](https://img.shields.io/github/license/ixkaito/NotoSerifCJKjp-subset.svg?maxAge=2592000)](https://github.com/ixkaito/NotoSerifCJKjp-subset/blob/master/LICENSE)
+# Noto Serif JP サブセット [![license](https://img.shields.io/github/license/ixkaito/NotoSerifCJKjp-subset.svg?maxAge=2592000)](https://github.com/ixkaito/NotoSerifCJKjp-subset/blob/master/LICENSE)
 
-(Noto Sans CJK JP サブセットは[こちら](https://github.com/ixkaito/NotoSansCJKjp-subset))
+(Noto Sans JP サブセットは[こちら](https://github.com/ixkaito/NotoSansJP-subset))
 
 - [`src`](https://github.com/ixkaito/NotoSerifCJKjp-subset/tree/master/src): オリジナルフォントデータ
 - [`subset`](https://github.com/ixkaito/NotoSerifCJKjp-subset/tree/master/subset): ウェブ用サブセットフォント (.woff, .otf)
